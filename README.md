@@ -1,1 +1,1 @@
-#Simple Restaurant - Console App
+Simple Restaurant - Console App
