@@ -37,11 +37,11 @@ print("we have a large variety of cool drinks:\n")
 
 
 Order = input("""0) Mountain Dew - 20 Rs\n
-1) 7 Up          - 20 Rs\n
-2) CocaCola      - 25 Rs\n
-3) Coffee        - 25 Rs\n
-4) Tea           - 25 Rs\n
-5) Lemon Nanari  - 30 Rs\n
+0) 7 Up          - 20 Rs\n
+1) CocaCola      - 25 Rs\n
+2) Coffee        - 25 Rs\n
+3) Tea           - 25 Rs\n
+4) Lemon Nanari  - 30 Rs\n
 *Pl type the number of the drink*\n\n->""")
 
 
